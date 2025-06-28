@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratham Sharma
 
-<!--
-**Pratham2sharma/Pratham2sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Full-Stack MERN Developer | DSA Enthusiast**
 
-Here are some ideas to get you started:
+I'm a passionate full-stack web developer with strong proficiency in the **MERN stack**, **Data Structures & Algorithms**, and **Object-Oriented Programming (OOP)**. I build scalable, secure, and user-friendly web applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Fundamentals:**  
+`JavaScript` · `HTML` · `CSS` · `OOP` · `DSA`
+
+**Frontend:**  
+`React.js` · `TailwindCSS` · `Bootstrap` · `Zustand`
+
+**Backend:**  
+`Node.js` · `Express.js`
+
+**Databases:**  
+`MongoDB` · `MySQL`
+
+**Other:**  
+`REST APIs` · `Secure Authentication` · `Git` · `GitHub`
+
+---
+
+## 📈 GitHub Stats
+
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham2sharma&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham2sharma&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-sharma-646045231/)  
+- 🌐 [Portfolio](https://pratham-portolio.netlify.app/)  
+- 📧 [Email](mailto:sharmapratham208@gmail.com)
+
+---
+
+> 🌱 *Curious by nature, driven by code. Always learning, always building.*
