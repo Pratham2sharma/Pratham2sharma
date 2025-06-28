@@ -40,16 +40,16 @@ I'm a passionate full-stack web developer with strong proficiency in the **MERN 
 
 ## 📈 GitHub Stats
 
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamsharma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsharma&layout=compact&theme=radical)
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham2sharma&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2sharma&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-sharma/)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 [Email](mailto:your-email@example.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-sharma-646045231/)
+- 🌐 [Portfolio](https://pratham-portolio.netlify.app/)
+- 📧 [Email](mailto:sharmapratham208@gmail.com)
 
 ---
 
